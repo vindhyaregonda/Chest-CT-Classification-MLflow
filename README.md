@@ -1,1 +1,1 @@
-# vindhyaregonda-Chest-CT-Classification-MLflow-DVC
+# Chest-CT-Classification-MLflow-DVC
